@@ -1,0 +1,6 @@
+venv/
+*.tpl
+*.pyc
+config.ini
+action-skill_joke_tuto.py
+
